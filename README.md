@@ -17,6 +17,17 @@ n = sequence length = 473
 Sliding window if want overlap between sequences
 
 
+X_train :
+
+| subject_id | sequence_id | ppg_series | gsr_series |
+|------------|-------------|------------|------------|
+| 1          | 1           | [...]      | [...]      |
+| 1          | 2           | [...]      | [...]      |
+| 1          | 3           | [...]      | [...]      |
+| 2          | 1           | [...]      | [...]      |
+| 2          | 2           | [...]      | [...]      |
+| 2          | 3           | [...]      | [...]      |
+
 
 
 
